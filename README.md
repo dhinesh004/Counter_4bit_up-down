@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d5583856-eebb-4922-8e3d-13ec0c204cf3)# Counter_4bit_up-down
+# Counter_4bit_up-down
 
 ## Aim:
 
@@ -74,7 +74,7 @@ Functional Simulation:
 
 	linux:/> nclaunch&                 // On subsequent calls to NCVERILOG
 
-![WhatsApp Image 2025-04-21 at 21 13 49_8ef4dd38](https://github.com/user-attachments/assets/2d263b9d-0355-4f5d-b4b1-c0e5e1951dd1)
+
 
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
