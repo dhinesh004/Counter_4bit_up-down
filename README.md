@@ -1,4 +1,4 @@
-# Counter_4bit_up-down
+![image](https://github.com/user-attachments/assets/d5583856-eebb-4922-8e3d-13ec0c204cf3)# Counter_4bit_up-down
 
 ## Aim:
 
@@ -44,6 +44,7 @@ Functional Simulation:
 
 
 ## Fig 2: Invoke the Cadence Environment
+![image](https://github.com/user-attachments/assets/858b3be4-5971-49d9-86fc-85b0065c27f3)
 
 
 ## Creating Source Code:
@@ -80,7 +81,8 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 
 ## Fig 3: Setting Multi-step simulation
 
-![WhatsApp Image 2025-04-21 at 21 13 48_67d7b472](https://github.com/user-attachments/assets/c707f7b8-2f31-48a6-948e-16d9fa66ec35)
+![image](https://github.com/user-attachments/assets/c368a302-02f4-49bc-92ad-463cc8aaf89a)
+
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
@@ -88,7 +90,8 @@ Click the cds.lib file and save the file by clicking on Save option
 
 ## Fig 4: cds.lib file Creation
 
-![WhatsApp Image 2025-04-21 at 21 13 49_17192b66](https://github.com/user-attachments/assets/32bf6def-254d-4d86-91e4-2f849f45d7a2)
+![image](https://github.com/user-attachments/assets/db2da388-1058-43f8-863c-8fa3bad74860)
+
 
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the  HDL Language and Libraries used.
@@ -99,7 +102,8 @@ Click the cds.lib file and save the file by clicking on Save option
 
 ## Fig 5: Selection of Don’t include any libraries
 
-![WhatsApp Image 2025-04-21 at 21 13 48_38dac42c](https://github.com/user-attachments/assets/538dc56e-d5d7-4a3b-a656-c1ce8628ee8e)
+![image](https://github.com/user-attachments/assets/693d96e0-872e-493c-a2f5-b084eef39b1c)
+
 
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
@@ -111,7 +115,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
 ## Fig 6: Nclaunch Window
-![WhatsApp Image 2025-04-21 at 21 13 49_3a963248](https://github.com/user-attachments/assets/48039ff8-6a9e-422d-a947-e27a621c43f2)
+![image](https://github.com/user-attachments/assets/fec4d40c-58db-4b8e-86bb-648c3b36c145)
+
 
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
@@ -137,7 +142,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
 ## Fig 7: Compiled database in worklib
-![WhatsApp Image 2025-04-21 at 21 13 48_c0c70d93](https://github.com/user-attachments/assets/c9292f0f-53c5-446e-be99-613c8abecb1e)
+![image](https://github.com/user-attachments/assets/94441a16-4aaf-4597-b963-d9909fef9550)
+
 
 
 	After compilation it will come under worklib you can see in right side window
@@ -170,6 +176,7 @@ It contains statements that map logical library names to their physical director
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
 
 ## Fig 8: Elaboration Launch Option
+![image](https://github.com/user-attachments/assets/b4df08e7-edc4-4549-9ff3-a3f3b809cda1)
 
 ### Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
@@ -183,14 +190,17 @@ It contains statements that map logical library names to their physical director
 
 ## Fig 9: Design Browser window for simulation
 
-![WhatsApp Image 2025-04-21 at 21 13 49_0bd333c2](https://github.com/user-attachments/assets/fb569083-d0fe-4e17-aa43-bef2f4893fd9)
+![image](https://github.com/user-attachments/assets/62eb1202-a4f7-4ad6-99f1-32d832061060)
+
 
 ## Fig 10: Simulation Waveform Window
-![WhatsApp Image 2025-04-21 at 21 13 48_8809ef4a](https://github.com/user-attachments/assets/ef752b76-8e3f-4e5f-88df-147d3433cb35)
+![image](https://github.com/user-attachments/assets/c586653c-c4a3-4c2c-93b1-d5a8b10e6db1)
+
 
 
 ## Fig 11: Simulation Waveform Window
-![WhatsApp Image 2025-04-21 at 21 13 49_453a22c5](https://github.com/user-attachments/assets/5842caf4-59bf-48be-b168-87097b847a20)
+![image](https://github.com/user-attachments/assets/81662ae3-46a3-44a2-9b6e-2cbd59dbe13f)
+
 
 ### Result
 
